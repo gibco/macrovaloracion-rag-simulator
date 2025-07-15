@@ -376,14 +376,14 @@ Este proyecto está licenciado bajo **Creative Commons Attribution-ShareAlike 4.
 ## 📞 Contacto y Soporte  
 
 ### Reportar Issues
-Utiliza el [sistema de issues de GitHub](https://github.com/tu-usuario/macrovaloracion-rag/issues) para:
+Utiliza el [sistema de issues de GitHub](https://github.com/gibco/macrovaloracion-rag/issues) para:
 - 🐛 Reportar bugs
 - 💡 Sugerir mejoras
 - 📖 Solicitar documentación
 - ❓ Hacer preguntas técnicas
 
 ### Discusiones
-Únete a las [Discussions](https://github.com/tu-usuario/macrovaloracion-rag/discussions) para:
+Únete a las [Discussions](https://github.com/gibco/macrovaloracion-rag/discussions) para:
 - 💬 Compartir casos de uso
 - 🤝 Colaborar en mejoras
 - 📚 Intercambiar conocimientos archivísticos
