@@ -361,7 +361,7 @@ Este proyecto está licenciado bajo **Creative Commons Attribution-ShareAlike 4.
 
 ## 👥 Créditos
 
-### Desarrollado por
+### Desarrollado por Jhon Alexander Gonzalez Florez  < http://archivistadigital.com > <jhon.gonzalez@gmail.com>
 **Consultor en Gestión Documental Electrónica y Preservación Digital**
 - Especialista en estándares ISO 15489, ISO 30300, ISO 14721
 - Experto en tecnologías RAG aplicadas a archivos
@@ -373,7 +373,7 @@ Este proyecto está licenciado bajo **Creative Commons Attribution-ShareAlike 4.
 - Marcos de preservación digital OAIS
 - Principios de accesibilidad universal WCAG
 
-## 📞 Contacto y Soporte
+## 📞 Contacto y Soporte  
 
 ### Reportar Issues
 Utiliza el [sistema de issues de GitHub](https://github.com/tu-usuario/macrovaloracion-rag/issues) para:
